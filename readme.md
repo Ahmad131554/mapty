@@ -24,7 +24,7 @@
 
 ## Project Preview
 
-You can view a live demo of the project here: [Mapty Demo](https://your-demo-link.com)
+You can view a live demo of the project here: [Mapty Demo](https://fitmappy.netlify.app/)
 
 ---
 
